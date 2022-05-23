@@ -1,4 +1,4 @@
-# SJLY
+# SJLY abbreviation of Shao-Jiang-Liang-Yang (Yuanzhi Shao, Chongming Jiang, Yiqin Liang, Renlong Yang)
 A Finite Time Scaling software for cancer population invasiveness evaluation
 
 To cite, now we have the BioArxiv preprint

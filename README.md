@@ -7,4 +7,4 @@ Invasiveness of a Growth-Migration System in a Two-dimensional Percolation clust
 
 at
 
-https://www.biorxiv.org/content/10.1101/2022.03.12.484105v1](https://link.springer.com/article/10.1007/s11538-022-01056-w
+[https://www.biorxiv.org/content/10.1101/2022.03.12.484105v1](https://link.springer.com/article/10.1007/s11538-022-01056-w](https://doi.org/10.1007/s11538-022-01056-w)

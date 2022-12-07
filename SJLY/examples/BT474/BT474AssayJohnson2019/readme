@@ -1,5 +1,5 @@
-This example is for generating a 'PAlleeBT474' object,
+This example is for generating a 'SJLYBT474' object,
 
-PAlleeBT474 = runBT474(PAlleeInputPropertiesBT474)
+SJLYBT474 = runSJLYBT474(SJLYInputPropertiesBT474)
 
-With this in hand, researchers can repeat this and average over the ensemble thus generated (e.g. averaging over the 'PAlleeBT474.totalCellNumber').
+Within it researchers can find output critical exponents.

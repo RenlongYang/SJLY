@@ -2,4 +2,4 @@ This example is for generating a 'SJLYBT474' object,
 
 SJLYBT474 = runSJLYBT474(SJLYInputPropertiesBT474)
 
-Within it researchers can find output critical exponents.
+Within it researchers can find the mean and uncertainty of the critical exponent "nu" -- meanNu and uncertaintyNu.
